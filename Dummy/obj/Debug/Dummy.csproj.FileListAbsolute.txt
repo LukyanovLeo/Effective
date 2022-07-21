@@ -1,0 +1,7 @@
+E:\VS2017\Projects\Effective\Dummy\bin\Debug\Dummy.exe.config
+E:\VS2017\Projects\Effective\Dummy\bin\Debug\Dummy.exe
+E:\VS2017\Projects\Effective\Dummy\bin\Debug\Dummy.pdb
+E:\VS2017\Projects\Effective\Dummy\obj\Debug\Dummy.csprojAssemblyReference.cache
+E:\VS2017\Projects\Effective\Dummy\obj\Debug\Dummy.csproj.CoreCompileInputs.cache
+E:\VS2017\Projects\Effective\Dummy\obj\Debug\Dummy.exe
+E:\VS2017\Projects\Effective\Dummy\obj\Debug\Dummy.pdb

@@ -1,0 +1,336 @@
+[
+
+{
+    "name": "Иван",
+    "surname": "Иванов",
+    "patronymic": "Иванович",
+    "birthdate": "04.08.1986",
+    "gender": false,
+    "maritalStatus": "married",
+    "childrenCount": 0,
+    "children": [
+        {
+            "name": "Иванова М.И.",
+            "birthdate": "15.02.2013",
+            "gender": true
+        }
+    ],
+    "legalAddress": {
+        "district": null,
+        "locality": "Москва",
+        "localityType": "город",
+        "street": "ул. Казакова",
+        "house": 8,
+        "housing": 1,
+        "flat": 20
+    },
+    "actual_address": {
+        "district": null,
+        "locality": "Москва",
+        "localityType": "город",
+        "street": "ул. Казакова",
+        "house": 8,
+        "housing": 1,
+        "flat": 20
+    },
+    "illnesses": [
+        {
+            "name": "Сколиоз 1-й степени",
+            "detectionDate": "2012",
+            "recoveryDate": null
+        }
+    ],
+    "outstandingLoans": [
+        {
+            "totalAmount": null,
+            "paidAmount": null,
+            "loanPurpose": null,
+            "creditor": null
+        }
+    ],
+    "family": {
+        "mother": {
+            "name": "Мария",
+            "surname": "Иванова",
+            "patronymic": "Степановна",
+            "birthdate": null
+        },
+        "father": {
+            "name": "Михайлович",
+            "surname": "Иван",
+            "patronymic": "Иванов",
+            "birthdate": null
+        },
+        "siblings": [
+            {
+                "name": "Татьяна",
+                "surname": "Иванова",
+                "patronymic": "Ивановна",
+                "birthdate": "1995"
+            }
+        ]
+    },
+    "university": {
+        "name": "MAI",
+        "speciality": "Engineer",
+        "redDiploma": false,
+        "meanScore": 4.3,
+        "courses": [
+            {
+                "name": null,
+                "score": null
+            }
+        ]
+    },
+    "additionalCourses": [
+        {
+            "name": null,
+            "certificate": null
+        }
+    ],
+    "driverLicense": {
+        "number": "12 34 567890",
+        "categories": [
+            {
+
+            }
+        ]
+    },
+    "patent": [
+        {
+            "name": null,
+            "scope": null,
+            "registrationDate": null
+        }
+    ],
+    "scientificDegrees": [
+        "Кандидат технических наук"
+    ],
+    "publications": [
+        {
+            "name": null,
+            "journal": null,
+            "citationIndex": 3,
+            "publicationDate": "2011",
+            "coauthors": [
+                {
+                    "name": "Петров Д."                    
+                },
+                {
+                    "name": "Хладкова Г."
+                }
+            ]
+        }
+    ],
+    "offences": [
+        {
+            "code": null,
+            "paragraph": null,
+            "status": false,
+            "registrationDate": null           
+        }
+    ],
+    "experience": [
+        {
+            "job": null,
+            "position": null,
+            "period": null,
+            "duties": [
+                "", ""
+            ]
+        }
+    ],
+    "citizenship": "РФ",
+    "nationality": "русский",
+    "religion": "православие",
+    "armyService": {
+        "militaryUnit": null,
+        "armyType": null,
+        "rank": null,
+        "speciality": null,
+        "awards": null,
+        "reprimands": [
+            {
+                "name": null,
+                "date": null
+            }
+        ],
+        "serviceStartDate": null,
+        "serviceEndDate": null
+    },
+    "skills": [
+
+    ],
+    "recomendations": [
+        
+    ]
+},
+///////////////////////////////////////////////////////////////////////////////////
+{
+    "name": "Олег",
+    "surname": "Петров",
+    "patronymic": "Максимович",
+    "birthdate": "05.10.1990",
+    "gender": false,
+    "maritalStatus": "married",
+    "childrenCount": 0,
+    "children": [
+        {
+            "name": "Иванова М.И.",
+            "birthdate": "15.02.2013",
+            "gender": true
+        }
+    ],
+    "legalAddress": {
+        "district": null,
+        "locality": "Москва",
+        "localityType": "город",
+        "street": "ул. Казакова",
+        "house": 8,
+        "housing": 1,
+        "flat": 20
+    },
+    "actual_address": {
+        "district": null,
+        "locality": "Москва",
+        "localityType": "город",
+        "street": "ул. Казакова",
+        "house": 8,
+        "housing": 1,
+        "flat": 20
+    },
+    "illnesses": [
+        {
+            "name": "Сколиоз 1-й степени",
+            "detectionDate": "2012",
+            "recoveryDate": null
+        }
+    ],
+    "outstandingLoans": [
+        {
+            "totalAmount": null,
+            "paidAmount": null,
+            "loanPurpose": null,
+            "creditor": null
+        }
+    ],
+    "family": {
+        "mother": {
+            "name": "Мария",
+            "surname": "Иванова",
+            "patronymic": "Степановна",
+            "birthdate": null
+        },
+        "father": {
+            "name": "Михайлович",
+            "surname": "Иван",
+            "patronymic": "Иванов",
+            "birthdate": null
+        },
+        "siblings": [
+            {
+                "name": "Татьяна",
+                "surname": "Иванова",
+                "patronymic": "Ивановна",
+                "birthdate": "1995"
+            }
+        ]
+    },
+    "university": {
+        "name": "MAI",
+        "speciality": "Engineer",
+        "redDiploma": false,
+        "meanScore": 4.3,
+        "courses": [
+            {
+                "name": null,
+                "score": null
+            }
+        ]
+    },
+    "additionalCourses": [
+        {
+            "name": null,
+            "certificate": null
+        }
+    ],
+    "driverLicense": {
+        "number": "12 34 567890",
+        "categories": [
+            {
+
+            }
+        ]
+    },
+    "patent": [
+        {
+            "name": null,
+            "scope": null,
+            "registrationDate": null
+        }
+    ],
+    "scientificDegrees": [
+        "Кандидат технических наук"
+    ],
+    "publications": [
+        {
+            "name": null,
+            "journal": null,
+            "citationIndex": 3,
+            "publicationDate": "2011",
+            "coauthors": [
+                {
+                    "name": "Петров Д."                    
+                },
+                {
+                    "name": "Хладкова Г."
+                }
+            ]
+        }
+    ],
+    "offences": [
+        {
+            "code": null,
+            "paragraph": null,
+            "status": false,
+            "registrationDate": null           
+        }
+    ],
+    "experience": [
+        {
+            "job": null,
+            "position": null,
+            "period": null,
+            "duties": [
+                "", ""
+            ]
+        }
+    ],
+    "citizenship": "РФ",
+    "nationality": "русский",
+    "religion": "православие",
+    "armyService": {
+        "militaryUnit": null,
+        "armyType": null,
+        "rank": null,
+        "speciality": null,
+        "awards": null,
+        "reprimands": [
+            {
+                "name": null,
+                "date": null
+            }
+        ],
+        "serviceStartDate": null,
+        "serviceEndDate": null
+    },
+    "skills": [
+
+    ],
+    "recomendations": [
+        
+    ]
+},
+
+
+]

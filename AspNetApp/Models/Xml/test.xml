@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<test xmlns="candidate-test">
+	<name>Test 1</name>
+	<questions>
+		<singles>
+			<single>
+				<number>3</number>
+				<text>Какая команда SQL используется для вставки данных в таблицу?</text>
+				<answer>SELECT</answer>
+				<answer>INSERT</answer>
+				<answer>UPDATE</answer>
+				<answer>DELETE</answer>
+				<trueAnswer>INSERT</trueAnswer>
+				<weight>2</weight>
+				<category>SQL</category>
+			</single>
+		</singles>
+		<multiples>
+			<multiple>
+				<number>2</number>
+				<text>Какие из команд относятся к языку DDL?</text>
+				<answer>CREATE</answer>
+				<answer>DELETE</answer>
+				<answer>DROP</answer>
+				<answer>UPDATE</answer>
+				<trueAnswer>CREATE</trueAnswer>
+				<trueAnswer>DROP</trueAnswer>
+				<weight>3</weight>
+				<category>SQL</category>
+			</multiple>
+		</multiples>
+		<inputs>
+			<input>
+				<number>4</number>
+				<text>Напишите полпущенное слово: SELECT * FROM Users ___ id = 10</text>
+				<trueAnswer>WHERE</trueAnswer>
+				<weight>4</weight>
+				<category>SQL</category>
+			</input>
+		</inputs>
+		<frees>
+			<free>
+				<number>1</number>
+				<text>Напишите команду для выборки числа записей, соответствующих определённому условию</text>
+				<weight>1</weight>
+				<category>SQL</category>
+			</free>
+		</frees>
+	</questions>
+	<time>
+		<hours>1</hours>
+		<minutes>30</minutes>
+		<seconds>0</seconds>
+	</time>
+	<attemptNumber>1</attemptNumber>
+</test>

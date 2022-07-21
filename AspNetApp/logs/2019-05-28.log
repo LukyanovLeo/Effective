@@ -1,0 +1,128 @@
+2019-05-28 00:36:33.4391 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 00:36:34.0145 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 00:54:26.8369 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:00:43.8016 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:00:45.4474 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 01:04:24.3397 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:04:25.8656 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 01:28:39.7513 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:28:41.0893 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 01:30:36.1588 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:30:36.5747 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 01:31:56.7896 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:31:58.4123 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 01:33:40.0622 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:33:41.4459 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 01:38:38.4060 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:38:38.8359 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 01:38:58.0430 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 01:38:58.6390 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 02:16:06.1442 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 02:16:07.4658 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 02:19:49.6191 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 02:19:50.0719 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 02:20:30.7897 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 02:20:31.2335 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 02:20:51.8682 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 02:20:52.2980 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 02:21:14.3494 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 02:21:14.7912 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 02:21:33.9065 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 02:21:34.3184 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 11:41:31.7068 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 11:41:33.3653 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:36:55.4805 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:36:55.9502 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:37:29.4014 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:37:29.8422 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:43:13.5278 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:43:15.1445 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:44:38.2010 | INFO | AspNetApp.Controllers.HomeController | Test form opened
+2019-05-28 12:44:42.1362 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 12:44:42.1362 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 12:44:42.6234 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 12:49:50.4959 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:49:52.0477 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:50:28.6986 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:50:29.0825 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:53:16.3381 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:53:17.7381 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:53:41.2843 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:53:42.8631 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:55:07.9098 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:55:08.3407 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:55:13.0260 | INFO | AspNetApp.Controllers.HomeController | Test form opened
+2019-05-28 12:57:04.1874 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:57:05.5463 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 12:57:52.1685 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 12:57:52.5923 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:02:29.1629 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:02:30.8793 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:03:33.1261 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:03:33.5231 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:03:40.9396 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:03:40.9396 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:03:41.3386 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:04:10.1094 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:04:10.5362 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:04:15.3032 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:04:15.3032 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:04:15.7310 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:07:27.1532 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:07:28.7001 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:07:35.4022 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:07:35.4022 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:07:35.7872 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:07:48.2376 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:07:48.6744 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:07:52.7455 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:07:52.7455 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:07:53.1753 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:33:09.2627 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:33:10.7890 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:33:20.5809 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:33:20.5859 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:33:20.9549 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:33:23.5217 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-28 13:33:56.3811 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:33:57.9028 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:34:05.1829 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:34:05.1829 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:34:05.5878 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:34:07.4066 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-28 13:34:48.3779 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:34:48.9174 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:34:54.0893 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:34:54.0893 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:34:54.5450 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:34:57.4383 | INFO | AspNetApp.Controllers.HomeController | Test form opened
+2019-05-28 13:36:52.3781 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:36:52.8348 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:36:59.4671 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:36:59.4671 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:36:59.9153 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:37:01.3419 | INFO | AspNetApp.Controllers.HomeController | Test form opened
+2019-05-28 13:43:38.1311 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:43:39.7255 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:43:49.1001 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:43:49.1001 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:43:49.4941 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:43:51.7267 | INFO | AspNetApp.Controllers.HomeController | Test form opened
+2019-05-28 13:46:03.8561 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:46:04.3019 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:46:11.2822 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:46:11.2822 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:46:11.7440 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:46:38.5133 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:46:38.9641 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:46:43.0134 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:46:43.0134 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:46:43.4821 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:49:09.1144 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 13:49:09.6031 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-28 13:49:14.1832 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-28 13:49:14.1832 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-28 13:49:14.6200 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-28 13:49:21.4416 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-28 23:52:45.0038 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-28 23:52:45.7388 | INFO | AspNetApp.Controllers.HomeController | App started

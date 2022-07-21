@@ -1,0 +1,137 @@
+﻿@model AspNetApp.Models.Infra.Evaluation
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+	<div class="row">
+		<div class="col-6 offset-4 my-1">
+			<label class="font-weight-bold">Эффективность: </label>
+			@{if (Model.Efficiency >= 0 && Model.Efficiency < 39)
+				{
+					<span class="text-danger font-weight-bold">@Model.Efficiency%</span>
+				}
+				if (Model.Efficiency >= 40 && Model.Efficiency < 79)
+				{
+					<span class="text-warning font-weight-bold">@Model.Efficiency%</span>
+				}
+				if (Model.Efficiency >= 80)
+				{
+					<span class="text-success font-weight-bold">@Model.Efficiency%</span>
+				}
+			}
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-6 offset-4 my-1">
+			<label class="font-weight-bold">Лояльность организации: </label>
+			@{if (Model.Loyalty >= 0 && Model.Loyalty < 39)
+				{
+					<span class="text-danger font-weight-bold">@Model.Loyalty%</span>
+				}
+				if (Model.Loyalty >= 40 && Model.Loyalty < 79)
+				{
+					<span class="text-warning font-weight-bold">@Model.Loyalty%</span>
+				}
+				if (Model.Loyalty >= 80)
+				{
+					<span class="text-success font-weight-bold">@Model.Loyalty%</span>
+				}
+			}
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-6 offset-4 my-1">
+			<label class="font-weight-bold">Соответствие обязанностям: </label>
+			@{if (Model.Sufficiency >= 0 && Model.Sufficiency < 39)
+				{
+					<span class="text-danger font-weight-bold">@Model.Sufficiency%</span>
+				}
+				if (Model.Sufficiency >= 40 && Model.Sufficiency < 79)
+				{
+					<span class="text-warning font-weight-bold">@Model.Sufficiency%</span>
+				}
+				if (Model.Sufficiency >= 80)
+				{
+					<span class="text-success font-weight-bold">@Model.Sufficiency%</span>
+				}
+			}
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-6 offset-4 my-1">
+			<label class="font-weight-bold">Рекомендации: </label>
+			@{if (Model.Is_1 != null)
+				{
+					if (Model.Is_1 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[0]</div>
+					}
+				}
+				if (Model.Is_2 != null)
+				{
+					if (Model.Is_2 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[1]</div>
+					}
+				}
+				if (Model.Is_3 != null)
+				{
+					if (Model.Is_3 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[2]</div>
+					}
+				}
+				if (Model.Is_4 != null)
+				{
+					if (Model.Is_4 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[3]</div>
+					}
+				}
+				if (Model.Is_5 != null)
+				{
+					if (Model.Is_5 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[0]</div>
+					}
+				}
+				if (Model.Is_6 != null)
+				{
+					if (Model.Is_6 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[0]</div>
+					}
+				}
+				if (Model.Is_7 != null)
+				{
+					if (Model.Is_7 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[0]</div>
+					}
+				}
+				if (Model.Is_8 != null)
+				{
+					if (Model.Is_8 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[0]</div>
+					}
+				}
+				if (Model.Is_9 != null)
+				{
+					if (Model.Is_9 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[0]</div>
+					}
+				}
+				if (Model.Is_10 != null)
+				{
+					if (Model.Is_10 > 0.7)
+					{
+						<div> - @AspNetApp.Data.Advices.Descriptions[0]</div>
+					}
+				}
+			}
+		</div>
+	</div>
+</div>

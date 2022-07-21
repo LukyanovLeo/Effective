@@ -1,0 +1,27 @@
+﻿@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+	@using (Html.BeginForm("TestSelector", "Test", FormMethod.Post, new { enctype = "multipart/form-data" }))
+	{
+		<div class="container text-center">
+			<div class="row">
+				<div class="col-4 offset-1 my-2">
+					<h3 for="testConfigurationFile">Загрузить файл тестовой конфигурации</h3>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-4 offset-1 my-2">
+					<input type="file" name="testFile" accept=".xml" class="form-control" id="testConfigurationFile" />
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-4 offset-1 my-2">
+					<input type="submit" value="Загрузить" class="btn btn-primary" />
+				</div>
+			</div>
+		</div>
+	}
+	@*Ajax.ActionLink("Новый тест", "NewTest", new AjaxOptions { UpdateTargetId = "test" })*@
+</div>

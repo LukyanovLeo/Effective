@@ -1,0 +1,17 @@
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\Watcher.exe.config
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\Watcher.exe
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\Watcher.pdb
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\EntityFramework.dll
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\System.Data.SQLite.dll
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\System.Data.SQLite.EF6.dll
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\System.Data.SQLite.Linq.dll
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\EntityFramework.xml
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\System.Data.SQLite.xml
+E:\VS2017\Projects\Effective\Watcher\bin\Debug\System.Data.SQLite.dll.config
+E:\VS2017\Projects\Effective\Watcher\obj\Debug\Watcher.csprojAssemblyReference.cache
+E:\VS2017\Projects\Effective\Watcher\obj\Debug\Watcher.csproj.CoreCompileInputs.cache
+E:\VS2017\Projects\Effective\Watcher\obj\Debug\Watcher.csproj.CopyComplete
+E:\VS2017\Projects\Effective\Watcher\obj\Debug\Watcher.exe
+E:\VS2017\Projects\Effective\Watcher\obj\Debug\Watcher.pdb

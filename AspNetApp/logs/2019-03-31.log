@@ -1,0 +1,5 @@
+2019-03-31 13:23:39.0929 | INFO | AspNetApp.MvcApplication | Application started
+2019-03-31 13:23:39.3654 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-03-31 20:58:02.2132 | INFO | AspNetApp.MvcApplication | Application started
+2019-03-31 20:58:04.2308 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-03-31 20:58:14.0323 | INFO | AspNetApp.MvcApplication | Application Error

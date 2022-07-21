@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	@Styles.Render("~/Content/bootstrap.min.css")
+	@Styles.Render("~/Content/bootstrap-grid.min.css")
+	<title>@ViewBag.Title</title>
+</head>
+<body>
+	@Scripts.Render("~/Scripts/jquery-3.0.0.min.js")
+	@Scripts.Render("~/Scripts/bootstrap.min.js")
+	
+	@RenderBody()
+</body>
+</html>

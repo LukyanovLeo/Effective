@@ -1,0 +1,19 @@
+2019-05-05 15:38:44.3940 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-05 15:38:46.9154 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-05 15:39:25.6980 | INFO | AspNetApp.Controllers.HomeController | Test form opened
+2019-05-05 15:51:09.3915 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-05 15:51:10.5232 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-05 15:51:16.4170 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-05 15:52:31.5269 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-05 15:52:33.7619 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-05 15:52:39.1867 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-05 15:53:12.8450 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-05 15:53:15.2565 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-05 15:53:17.8267 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-05 15:57:55.4207 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-05 15:57:57.9729 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-05 15:58:01.7972 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-05 15:58:55.6372 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-05 15:58:58.0318 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-05 15:59:47.3683 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-05 15:59:47.8879 | INFO | AspNetApp.Controllers.HomeController | App started

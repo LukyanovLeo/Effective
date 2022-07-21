@@ -1,0 +1,276 @@
+2019-05-29 00:30:21.0382 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 00:30:21.0382 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 00:30:21.6462 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 00:59:09.2048 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-29 01:01:33.9698 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 01:01:35.7520 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 01:01:48.6402 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 01:01:48.6402 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 01:01:49.1665 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 01:04:18.0050 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-29 01:10:01.2561 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 01:10:02.9218 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 01:10:10.2756 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 01:10:10.2756 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 01:10:10.6564 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 01:10:32.4722 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-29 11:20:14.7189 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 11:20:16.6099 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 11:20:26.2410 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 11:20:26.2410 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 11:20:26.6190 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 11:21:01.3552 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 11:21:01.7332 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 11:21:07.4631 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 11:21:07.4631 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 11:21:07.9558 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 11:23:44.5811 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 11:23:45.0828 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 11:25:09.0113 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 11:25:09.0113 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 11:25:09.4401 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 11:32:05.1510 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 11:32:05.5908 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 11:32:11.7384 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 11:32:11.7384 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 11:32:12.1683 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 11:32:19.2758 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-29 11:41:59.8608 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 11:42:00.3315 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 11:42:05.6344 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 11:42:05.6344 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 11:42:06.0793 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 11:42:50.5150 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 11:42:50.9519 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 11:42:55.3653 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 11:42:55.3653 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 11:42:55.7908 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 11:44:02.4339 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 11:44:02.8578 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 11:44:10.1396 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 11:44:10.1396 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 11:44:10.5736 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 11:49:18.0773 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 11:49:18.5869 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 11:49:22.8958 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 11:49:22.8958 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 11:49:23.3755 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 11:49:29.4172 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-29 16:35:03.4906 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 16:35:03.8835 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 16:35:08.7160 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 16:35:08.7160 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 16:35:09.1554 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 16:39:30.6130 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 16:39:30.9967 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 16:39:36.2276 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 16:39:36.2276 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 16:39:36.6605 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 16:40:30.8305 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 16:40:31.2184 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 16:40:35.2904 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 16:40:35.2904 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 16:40:35.7831 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 16:43:16.4653 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 16:43:16.8722 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 16:43:26.0640 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 16:43:26.0690 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 16:43:26.4750 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 16:44:15.5904 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 16:44:16.0302 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 16:44:27.7765 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 16:44:27.7765 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 16:44:28.2073 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 16:45:01.0188 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 16:45:05.1431 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 16:45:05.1431 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 16:45:05.1431 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 16:56:32.9873 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 16:56:34.6150 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 16:56:41.5669 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 16:56:41.5669 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 16:56:41.9493 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 16:56:50.7944 | INFO | AspNetApp.MvcApplication | Application Error
+2019-05-29 17:04:12.5813 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 17:04:14.1461 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 17:05:16.4967 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 17:05:16.4967 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 17:05:16.9734 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 17:08:28.5523 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 17:08:29.0041 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 17:08:33.6556 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 17:08:33.6556 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 17:08:34.0682 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 17:58:31.2014 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 17:58:32.5474 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 17:58:45.5104 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 17:58:45.5104 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 17:58:45.9402 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:17:45.0672 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:17:45.5728 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:18:29.1734 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:18:29.1764 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:18:29.6162 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:28:36.4252 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:28:36.8500 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:28:41.4144 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:28:41.4144 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:28:41.9061 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:31:56.4671 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:31:56.9179 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:32:01.9958 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:32:01.9958 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:32:02.4326 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:32:49.5021 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:32:49.9189 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:32:54.2244 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:32:54.2244 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:32:54.7022 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:33:29.0793 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:33:29.4882 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:33:34.8894 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:33:34.8894 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:33:35.3300 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:34:45.4720 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:34:45.9657 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:34:50.2309 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:34:50.2309 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:34:50.6884 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:36:13.7956 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:36:14.2384 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:36:19.0479 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:36:19.0499 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:36:19.4717 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:38:15.7008 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:38:16.1426 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:38:20.5363 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:38:20.5363 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:38:21.0102 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:41:49.7440 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:41:50.1977 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:41:57.6108 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:41:57.6137 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:41:58.1094 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:45:46.3858 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:45:46.8117 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:45:52.4371 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:45:52.4401 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:45:52.8686 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:47:32.5996 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:47:33.0474 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:47:37.1932 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:47:37.1932 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:47:37.6271 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:50:56.3102 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:50:56.7280 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:51:00.9355 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:51:00.9355 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:51:01.3746 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:51:45.1238 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:51:45.5657 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:51:50.8124 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:51:50.8124 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:51:51.2495 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:53:33.3091 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:53:33.7380 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:53:38.2323 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:53:38.2323 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:53:38.6701 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 18:54:38.0642 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 18:54:38.4711 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 18:54:51.0021 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 18:54:51.0021 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 18:54:51.4287 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 19:41:14.4509 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 19:41:16.1131 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 19:43:18.0979 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 19:43:18.0979 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 19:43:18.5038 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 19:57:08.5364 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 19:57:10.1471 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 19:57:35.3935 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 19:57:35.3935 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 19:57:35.7915 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 19:59:02.9033 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 19:59:04.4293 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 19:59:13.3183 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 19:59:13.3183 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 19:59:13.6973 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:12:44.1638 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:12:45.6688 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:12:54.9471 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:12:54.9471 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:12:55.3401 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:13:37.3131 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:13:38.9587 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:13:45.8779 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:13:45.8779 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:13:46.2788 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:14:39.9080 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:14:41.3991 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:15:15.1177 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:15:15.1177 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:15:15.4937 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:22:06.0312 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:22:07.8414 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:22:41.1383 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:22:41.1383 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:22:41.5301 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:30:30.2371 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:30:31.6982 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:30:40.4409 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:30:40.4409 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:30:40.8119 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:32:03.8716 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:32:05.4344 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:32:12.2790 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:32:12.2790 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:32:12.6829 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:49:08.6736 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:49:10.4242 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:49:23.3415 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:49:23.3544 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:49:23.8579 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:53:46.9143 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:53:48.4213 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:55:09.9527 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:55:09.9556 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:55:10.3466 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:56:47.5483 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:56:47.9852 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:57:22.8717 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:57:22.8827 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:57:23.3873 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 20:57:47.9060 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 20:57:48.3568 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 20:57:55.6092 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 20:57:55.6123 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 20:57:56.0401 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 21:18:03.7560 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 21:18:05.2377 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 21:19:24.0730 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 21:19:24.0730 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 21:19:24.4470 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 21:20:45.7264 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 21:20:46.1772 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 21:20:57.3662 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 21:20:57.3662 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 21:20:57.7950 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 21:36:50.6511 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 21:36:51.1208 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 21:36:57.6328 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 21:36:57.6328 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 21:36:58.0666 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 23:45:24.1104 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 23:45:25.8788 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 23:45:34.9311 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 23:45:34.9311 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 23:45:35.3271 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 23:53:32.9207 | INFO | AspNetApp.MvcApplication | Application started
+2019-05-29 23:53:34.4846 | INFO | AspNetApp.Controllers.HomeController | App started
+2019-05-29 23:53:43.0931 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 23:53:43.0931 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 23:53:43.4611 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'
+2019-05-29 23:54:52.7877 | INFO | AspNetApp.Db.MongoDbProvider | Mongo client created. Connection string is mongodb://localhost:27017
+2019-05-29 23:54:52.7877 | INFO | AspNetApp.Db.MongoDbProvider | Client MongoDB.Driver.MongoClient requested DB with name 'effectivedb'
+2019-05-29 23:54:52.7877 | INFO | AspNetApp.Db.MongoDbProvider | Successfull request for DB 'effectivedb'

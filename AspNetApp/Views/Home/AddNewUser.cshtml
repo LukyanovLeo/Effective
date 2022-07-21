@@ -1,0 +1,37 @@
+﻿@model AspNetApp.Models.Infra.User
+
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+	<div class="text-center">
+		<h2 class="my-4">Добавить нового пользователя</h2>
+		<div class="container">
+			<div class="row text-left">
+				<div class="col-4 offset-4 mb-1">
+					<label>Логин</label>
+					@Html.TextBoxFor(x => x.Login, new { @class = "form-control" })
+				</div>
+			</div>
+			<div class="row text-left ">
+				<div class="col-4 offset-4 mb-1">
+					<label>Пароль</label>
+					@Html.PasswordFor(x => x.Password, new { @class = "form-control" })
+				</div>
+			</div>
+			<div class="row text-left">
+				<div class="col-4 offset-4 mb-1">
+					<label>Пароль</label>
+					@Html.TextBoxFor(x => x.Role, new { @class = "form-control" })
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-4 offset-4 my-3">
+					<input type="submit" id="loginButton" class="bg-success text-white form-control" value="Добавить" />
+				</div>
+			</div>
+		</div>
+	</div>
+}

@@ -1,0 +1,157 @@
+﻿@model AspNetApp.Models.Candidate
+
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="panel-success">
+	<div class="panel-heading text-center">
+		<h4>Форма добавления нового кандидата</h4>
+	</div>
+	<div class="text-left">
+		<div class="container">
+			@using (Html.BeginForm())
+			{
+				@Html.ValidationSummary()
+
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Имя</label>
+						@Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Фамилия</label>
+						@Html.TextBoxFor(x => x.Surname, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Отчество</label>
+						@Html.TextBoxFor(x => x.Patronymic, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Дата рождения</label>
+						@Html.TextBoxFor(x => x.BirthDate, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Пол</label>
+						@Html.RadioButtonFor(x => x.Sex, true) Женский
+						@Html.RadioButtonFor(x => x.Sex, false) Мужской
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Гражданство</label>
+						@Html.TextBoxFor(x => x.Citizenship, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Национальность</label>
+						@Html.TextBoxFor(x => x.Nationality, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Контактный телефон</label>
+						@Html.TextBoxFor(x => x.Phone, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Доп. телефон</label>
+						@Html.TextBoxFor(x => x.AdditionalPhone, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Семейное положение</label>
+						@Html.TextBoxFor(x => x.MaritalStatus, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Число детей</label>
+						@Html.TextBoxFor(x => x.ChildrenCount, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Дети</label>
+						@Html.TextBoxFor(x => x.Children, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Адрес по документам</label>
+						@Html.TextBoxFor(x => x.LegalAddress, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Фактический адрес</label>
+						@Html.TextBoxFor(x => x.ActualAddress, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Кредиты</label>
+						@Html.TextBoxFor(x => x.OutstandingLoans, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Семья</label>
+						@Html.TextBoxFor(x => x.Family, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Институт</label>
+						@Html.TextBoxFor(x => x.University, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Патенты</label>
+						@Html.TextBoxFor(x => x.Patents, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Публикации</label>
+						@Html.TextBoxFor(x => x.Publications, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Правонарушения</label>
+						@Html.TextBoxFor(x => x.Offences, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Опыт работы</label>
+						@Html.TextBoxFor(x => x.Experience, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-6 offset-2 mb-1">
+						<label>Служба в армии</label>
+						@Html.TextBoxFor(x => x.ArmyService, new { @class = "form-control" })
+					</div>
+				</div>
+				<div class="text-center">
+					<input type="submit" value="Отправить данные о кандидате" class="btn btn-success" />
+				</div>
+			}
+		</div>
+	</div>
+</div>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema1"
+    targetNamespace="candidate-test"
+    elementFormDefault="qualified"
+    xmlns:mstns="http://www.w3.org/2001/XMLSchema"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xf="candidate-test"
+>
+	<xs:complexType name="single">
+		<xs:sequence>
+			<xs:element name="number" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="text" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="answer" type="xs:string" minOccurs="1" maxOccurs="unbounded"></xs:element>
+			<xs:element name="trueAnswer" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="weight" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="category" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="multiple">
+		<xs:sequence>
+			<xs:element name="number" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="text" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="answer" type="xs:string" minOccurs="1" maxOccurs="unbounded"></xs:element>
+			<xs:element name="trueAnswer" type="xs:string" minOccurs="1" maxOccurs="unbounded"></xs:element>
+			<xs:element name="weight" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="category" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="input">
+		<xs:sequence>
+			<xs:element name="number" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="text" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="trueAnswer" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="weight" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="category" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="free">
+		<xs:sequence>
+			<xs:element name="number" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="text" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="weight" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+			<xs:element name="category" type="xs:string" minOccurs="1" maxOccurs="1"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="test">
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="name" type="xs:string"></xs:element>	
+				<xs:element name="questions">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="singles" minOccurs="0" maxOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="single" type="xf:single" minOccurs="0" maxOccurs="unbounded"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+
+							<xs:element name="multiples" minOccurs="0" maxOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="multiple" type="xf:multiple" minOccurs="0" maxOccurs="unbounded"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+
+							<xs:element name="inputs" minOccurs="0" maxOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="input" type="xf:input" minOccurs="0" maxOccurs="unbounded"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+
+							<xs:element name="frees" minOccurs="0" maxOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="free" type="xf:free" minOccurs="0" maxOccurs="unbounded"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>						
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>	
+				<xs:element name="time" minOccurs="1" maxOccurs="1">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="hours" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+							<xs:element name="minutes" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+							<xs:element name="seconds" type="xs:integer" minOccurs="1" maxOccurs="1"></xs:element>
+						</xs:all>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="attemptNumber" type="xs:integer"></xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

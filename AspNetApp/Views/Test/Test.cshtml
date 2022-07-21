@@ -1,0 +1,89 @@
+﻿@using System.Web.Optimization;
+@using AspNetApp.Models.XmlModel;
+
+@model AspNetApp.Models.Infra.TestSorted
+@{
+	Layout = "~/Views/Shared/_Login.cshtml";
+	Scripts.Render("~/Scripts/jquery-3.0.0.min.js");
+	Scripts.Render("~/Scripts/jquery.unobtrusive-ajax.min.js");
+}
+
+<body onload="startTimer('CurrentTime', @Model.Time.Hours, @Model.Time.Minutes, @Model.Time.Seconds)">
+	@{
+		using (Html.BeginForm("TestCheck", "Test", FormMethod.Post))
+		{
+			<div class="container">
+				<div>Времени осталось: @Html.TextBoxFor(x => x.CurrentTime, new { @readonly = true })</div>
+				<div class="text-left">
+					@for (int i = 0; i < Model.Questions.Count; i++)
+					{
+						<div>
+							<h2>Вопрос №@Model.Questions[i].Number</h2>
+							<h4>@Model.Questions[i].Text</h4>
+							<div>
+								@{
+									if (Model.Questions[i] is SingleAnswer)
+									{
+										<div class="form-group col-6">
+											@{
+												<div>@Html.HiddenFor(x => x.Questions[i].Text)</div>
+												<div>@Html.HiddenFor(x => x.Questions[i].Number)</div>
+												<div>@Html.HiddenFor(x => x.Questions[i].Category)</div>
+												var single = Model.Questions[i] as SingleAnswer;
+												for (int j = 0; j < single.Answers.Count; j++)
+												{
+													<div>@Html.RadioButtonFor(x => x.Questions[i].GivenAnswer, single.Answers[j]) @single.Answers[j]</div>
+												}
+											}
+										</div>
+									}
+									if (Model.Questions[i] is MultipleAnswer)
+									{
+										<div class="form-group col-6">
+											@{
+												<div>@Html.HiddenFor(x => x.Questions[i].Text)</div>
+												<div>@Html.HiddenFor(x => x.Questions[i].Number)</div>
+												<div>@Html.HiddenFor(x => x.Questions[i].Category)</div>
+												var multiple = Model.Questions[i] as MultipleAnswer;
+												for (int j = 0; j < multiple.Answers.Count; j++)
+												{
+													<div>@Html.CheckBoxFor(x => x.Questions[i].MultipleAnswers[j], multiple.Answers[j]) @multiple.Answers[j]</div>
+												}
+											}
+										</div>
+									}
+									if (Model.Questions[i] is InputAnswer)
+									{
+										<div class="form-group col-6">
+											@{
+												<div>@Html.HiddenFor(x => x.Questions[i].Text)</div>
+												<div>@Html.HiddenFor(x => x.Questions[i].Number)</div>
+												<div>@Html.HiddenFor(x => x.Questions[i].Category)</div>
+												<div>@Html.TextBoxFor(x => x.Questions[i].GivenAnswer)</div>
+											}
+										</div>
+									}
+									if (Model.Questions[i] is FreeAnswer)
+									{
+										<div class="form-group col-6">
+											@{
+												var free = Model.Questions[i] as FreeAnswer;
+												<div>@Html.HiddenFor(x => x.Questions[i].Text)</div>
+												<div>@Html.HiddenFor(x => x.Questions[i].Number)</div>
+												<div>@Html.HiddenFor(x => x.Questions[i].Category)</div>
+												<div>@Html.TextAreaFor(x => x.Questions[i].GivenAnswer)</div>
+											}
+										</div>
+									}
+								}
+							</div>
+						</div>
+					}
+					<input type="submit" value="Завершить тест" />
+				</div>
+			</div>
+		}
+	}
+
+	@Scripts.Render("~/Scripts/custom/timer.js")
+</body>

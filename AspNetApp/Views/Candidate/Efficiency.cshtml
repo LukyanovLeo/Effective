@@ -1,0 +1,26 @@
+﻿@model AspNetApp.Models.Infra.Trivia
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+	@using (Html.BeginForm("GetEvaluation", "Candidate", FormMethod.Post))
+	{
+		<div class="container">
+			<div class="row text-center my-lg-5">
+				<div class="col-lg-12">
+					<h2>Выберите данные о кандидате</h2>
+					@{
+					  var a = ViewBag.Ids;
+					  @Html.DropDownListFor(x => x.Id, new SelectList(ViewBag.Ids, "Id"), "Выберите сотрудника");
+					}
+				</div>
+			</div>
+			<div class="row text-center my-lg-5">
+				<div class="col-lg-6">
+					<input type="submit" value="Получить оценку эффективности" />
+				</div>
+			</div>
+		</div>
+	}
+</div>
